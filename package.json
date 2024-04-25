@@ -39,7 +39,7 @@
     "ripple-lib": "^0.11.0-rc2",
     "ripple-lib-transactionparser": "^0.1.0",
     "sqlite3": "~3.0.2",
-    "supertest": "^0.13.0",
+    "supertest": "^7.0.0",
     "winston": "^0.7.3"
   },
   "devDependencies": {
